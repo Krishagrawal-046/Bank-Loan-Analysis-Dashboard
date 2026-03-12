@@ -195,18 +195,7 @@ Open the **Power BI (.pbix) file** to explore the dashboard and interact with fi
 
 # 👨‍💻 Author
 
-**Krish Agrawal**
-
+**Krish Agrawal**  
 B.Tech, NIT Raipur
-Aspiring **Data Analyst**
-
-Skills:
-
-* SQL
-* Power BI
-* Excel
-* Data Analysis
-
----
 
 ⭐ If you found this project useful, consider giving it a **star**!
