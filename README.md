@@ -84,7 +84,7 @@ This dashboard provides a high-level overview of loan performance:
 * Good vs Bad Loan Ratio
 * Loan Status Performance Table
 
-![Summary Dashboard](dashboard_images/summary.png)
+![Summary Dashboard](dashboard_images/Summary.png)
 
 ---
 
@@ -99,7 +99,7 @@ Provides deeper analytical insights including:
 * Home Ownership Analysis
 * Employment Length Analysis
 
-![Overview Dashboard](dashboard_images/overview.png)
+![Overview Dashboard](dashboard_images/Overview.png)
 
 ---
 
